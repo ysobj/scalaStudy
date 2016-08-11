@@ -1,0 +1,13 @@
+lastName,firstName,age,gender,email,birthday
+"taro","suzuki",35,"m","taro@example.com","1981-10-10"
+"jiro","suzuki",33,"m","jiro@example.com","1983-3-15"
+"hanako","suzuki",31,"f","hanako@example.com","1985-12-16"
+"morio","kanao",25,"m","morio@example.com","1991-11-4"
+"mie","nanao",15,"f","mie@example.com","2001-2-3"
+"kana","hosozaki",26,"f","kana@example.com","1990-5-1"
+"keiji","yamano",23,"m","keiji@example.com","1987-4-26"
+"yota","mizo",37,"m","yota@example.com","1979-11-14"
+"yuri","shinoda",28,"f","yuri@example.com","1988-8-19"
+"eri","kono",25,"f","eri@example.com","1991-9-12"
+"mamiko","kinoshita",22,"f","mamiko@example.com","1988-6-7"
+"mayu","taira",30,"f","mayu@example.com","1986-7-30"
